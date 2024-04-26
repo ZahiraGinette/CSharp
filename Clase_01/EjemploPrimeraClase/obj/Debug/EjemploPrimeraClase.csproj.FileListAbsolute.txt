@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.exe.config
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.exe
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.pdb
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.exe
+E:\Proyectos\Clases Net\EjemploPrimeraClase\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\bin\Debug\EjemploPrimeraClase.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\EjemploPrimeraClase\obj\Debug\EjemploPrimeraClase.pdb

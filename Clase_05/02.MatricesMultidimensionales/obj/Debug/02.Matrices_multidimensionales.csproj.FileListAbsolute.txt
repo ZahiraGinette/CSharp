@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\bin\Debug\02.Matrices_multidimensionales.exe.config
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\bin\Debug\02.Matrices_multidimensionales.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\bin\Debug\02.Matrices_multidimensionales.pdb
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\obj\Debug\02.Matrices_multidimensionales.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\obj\Debug\02.Matrices_multidimensionales.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\obj\Debug\02.Matrices_multidimensionales.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\02.Matrices_multidimensionales\obj\Debug\02.Matrices_multidimensionales.pdb

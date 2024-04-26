@@ -1,0 +1,17 @@
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.exe.config
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.pdb
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Ejercicio_04.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\bin\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercici.A1976643.Up2Date
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_03\Ejercicio_04\obj\Debug\Ejercicio_04.pdb

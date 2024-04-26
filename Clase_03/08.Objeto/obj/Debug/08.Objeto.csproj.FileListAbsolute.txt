@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\bin\Debug\08.Objeto.exe.config
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\bin\Debug\08.Objeto.exe
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\bin\Debug\08.Objeto.pdb
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\obj\Debug\08.Objeto.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\obj\Debug\08.Objeto.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\obj\Debug\08.Objeto.exe
+E:\Proyectos\Clases Net\Clase 02\01.Clases\08.Objeto\obj\Debug\08.Objeto.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\bin\Debug\08.Objeto.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\bin\Debug\08.Objeto.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\bin\Debug\08.Objeto.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\obj\Debug\08.Objeto.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\obj\Debug\08.Objeto.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\obj\Debug\08.Objeto.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\08.Objeto\obj\Debug\08.Objeto.pdb

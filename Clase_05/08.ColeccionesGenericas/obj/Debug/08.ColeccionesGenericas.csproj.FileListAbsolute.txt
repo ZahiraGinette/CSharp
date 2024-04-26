@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\bin\Debug\08.Colecciones_genericas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\bin\Debug\08.Colecciones_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\bin\Debug\08.Colecciones_genericas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\obj\Debug\08.ColeccionesGenericas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\obj\Debug\08.ColeccionesGenericas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\obj\Debug\08.Colecciones_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\08.ColeccionesGenericas\obj\Debug\08.Colecciones_genericas.pdb

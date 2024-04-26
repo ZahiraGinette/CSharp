@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\bin\Debug\04.Listas_genericas.exe.config
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\bin\Debug\04.Listas_genericas.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\bin\Debug\04.Listas_genericas.pdb
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\obj\Debug\04.Listas_genericas.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\obj\Debug\04.Listas_genericas.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\obj\Debug\04.Listas_genericas.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\04.Listas_genericas\obj\Debug\04.Listas_genericas.pdb

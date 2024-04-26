@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\bin\Debug\04.Listas_genericas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\bin\Debug\04.Listas_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\bin\Debug\04.Listas_genericas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\obj\Debug\04.ListasGenericas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\obj\Debug\04.ListasGenericas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\obj\Debug\04.Listas_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\04.ListasGenericas\obj\Debug\04.Listas_genericas.pdb

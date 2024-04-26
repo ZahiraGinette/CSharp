@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\bin\Debug\Depuracion.exe.config
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\bin\Debug\Depuracion.exe
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\bin\Debug\Depuracion.pdb
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\obj\Debug\Depuracion.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\obj\Debug\Depuracion.exe
+E:\Proyectos\Clases Net\Ejercicio 01\Depuracion\obj\Debug\Depuracion.pdb

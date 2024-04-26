@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\bin\Debug\07.NamespacesYDirectivas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\bin\Debug\07.NamespacesYDirectivas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\bin\Debug\07.NamespacesYDirectivas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\obj\Debug\07.NamespacesYDirectivas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\obj\Debug\07.NamespacesYDirectivas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\obj\Debug\07.NamespacesYDirectivas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\07.NamespacesYDirectivas\obj\Debug\07.NamespacesYDirectivas.pdb

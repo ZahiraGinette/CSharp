@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\obj\Debug\08.Strings.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\obj\Debug\08.Strings.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\bin\Debug\08.Strings.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\bin\Debug\08.Strings.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\bin\Debug\08.Strings.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\obj\Debug\08.Strings.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\08.Strings\obj\Debug\08.Strings.pdb

@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\bin\Debug\03.SobrecargaOperadores.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\bin\Debug\03.SobrecargaOperadores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\bin\Debug\03.SobrecargaOperadores.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\obj\Debug\03.SobrecargaOperadores.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\obj\Debug\03.SobrecargaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\obj\Debug\03.SobrecargaOperadores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\03.SobrecargaOperadores\obj\Debug\03.SobrecargaOperadores.pdb

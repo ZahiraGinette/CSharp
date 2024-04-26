@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\bin\Debug\07.Indexadores.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\bin\Debug\07.Indexadores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\bin\Debug\07.Indexadores.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\obj\Debug\07.Indexadores.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\obj\Debug\07.Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\obj\Debug\07.Indexadores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\07.Indexadores\obj\Debug\07.Indexadores.pdb

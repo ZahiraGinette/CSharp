@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\bin\Debug\09.FuncionesMatematicas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\bin\Debug\09.FuncionesMatematicas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\bin\Debug\09.FuncionesMatematicas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\obj\Debug\09.FuncionesMatematicas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\obj\Debug\09.FuncionesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\obj\Debug\09.FuncionesMatematicas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\09.FuncionesMatematicas\obj\Debug\09.FuncionesMatematicas.pdb

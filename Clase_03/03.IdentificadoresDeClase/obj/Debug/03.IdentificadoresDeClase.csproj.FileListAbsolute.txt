@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\bin\Debug\03.Identificadores_de_clase.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\bin\Debug\03.Identificadores_de_clase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\bin\Debug\03.Identificadores_de_clase.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\obj\Debug\03.IdentificadoresDeClase.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\obj\Debug\03.IdentificadoresDeClase.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\obj\Debug\03.Identificadores_de_clase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\03.Identificadores_de_clase\obj\Debug\03.Identificadores_de_clase.pdb

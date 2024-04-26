@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\obj\Debug\02.SobrecargaConstructores.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\obj\Debug\02.SobrecargaConstructores.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\bin\Debug\02.SobrecargaConstructores.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\bin\Debug\02.SobrecargaConstructores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\bin\Debug\02.SobrecargaConstructores.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\obj\Debug\02.SobrecargaConstructores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\02.SobrecargaConstructores\obj\Debug\02.SobrecargaConstructores.pdb

@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\bin\Debug\08.Colecciones_genericas.exe.config
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\bin\Debug\08.Colecciones_genericas.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\bin\Debug\08.Colecciones_genericas.pdb
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\obj\Debug\08.Colecciones_genericas.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\obj\Debug\08.Colecciones_genericas.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\obj\Debug\08.Colecciones_genericas.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\08.Colecciones_genericas\obj\Debug\08.Colecciones_genericas.pdb

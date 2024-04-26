@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\bin\Debug\07.Constructores.exe.config
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\bin\Debug\07.Constructores.exe
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\bin\Debug\07.Constructores.pdb
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\obj\Debug\07.Constructores.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\obj\Debug\07.Constructores.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\obj\Debug\07.Constructores.exe
+E:\Proyectos\Clases Net\Clase 02\01.Clases\07.Constructores\obj\Debug\07.Constructores.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\bin\Debug\07.Constructores.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\bin\Debug\07.Constructores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\bin\Debug\07.Constructores.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\obj\Debug\07.Constructores.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\obj\Debug\07.Constructores.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\obj\Debug\07.Constructores.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\07.Constructores\obj\Debug\07.Constructores.pdb

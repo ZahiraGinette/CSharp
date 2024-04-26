@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\bin\Debug\06.Enumerados.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\bin\Debug\06.Enumerados.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\bin\Debug\06.Enumerados.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\obj\Debug\06.Enumerados.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\obj\Debug\06.Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\obj\Debug\06.Enumerados.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\06.Enumerados\obj\Debug\06.Enumerados.pdb

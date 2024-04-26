@@ -1,0 +1,14 @@
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.exe.config
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.pdb
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\bin\Debug\Ejercicio_06.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_02\Ejercicio_06\obj\Debug\Ejercicio_06.pdb

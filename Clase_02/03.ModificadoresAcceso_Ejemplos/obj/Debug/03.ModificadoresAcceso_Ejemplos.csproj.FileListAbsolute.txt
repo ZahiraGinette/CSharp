@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\obj\Debug\03.ModificadoresAcceso_Ejemplos.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\obj\Debug\03.ModificadoresAcceso_Ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\bin\Debug\03.ModificadoresAcceso_Ejemplos.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\bin\Debug\03.ModificadoresAcceso_Ejemplos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\bin\Debug\03.ModificadoresAcceso_Ejemplos.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\obj\Debug\03.ModificadoresAcceso_Ejemplos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\03.ModificadoresAcceso_Ejemplos\obj\Debug\03.ModificadoresAcceso_Ejemplos.pdb

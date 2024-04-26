@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\bin\Debug\05.ClasesEstaticas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\bin\Debug\05.ClasesEstaticas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\bin\Debug\05.ClasesEstaticas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\obj\Debug\05.ClasesEstaticas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\obj\Debug\05.ClasesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\obj\Debug\05.ClasesEstaticas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\05.ClasesEstaticas\obj\Debug\05.ClasesEstaticas.pdb

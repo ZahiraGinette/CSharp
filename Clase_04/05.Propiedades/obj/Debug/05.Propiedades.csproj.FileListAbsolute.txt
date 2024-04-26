@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\bin\Debug\05.Propiedades.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\bin\Debug\05.Propiedades.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\bin\Debug\05.Propiedades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\obj\Debug\05.Propiedades.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\obj\Debug\05.Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\obj\Debug\05.Propiedades.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\05.Propiedades\obj\Debug\05.Propiedades.pdb

@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\bin\Debug\04.OperadoresConversion.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\bin\Debug\04.OperadoresConversion.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\bin\Debug\04.OperadoresConversion.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\obj\Debug\04.OperadoresConversion.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\obj\Debug\04.OperadoresConversion.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\obj\Debug\04.OperadoresConversion.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\04.OperadoresConversion\obj\Debug\04.OperadoresConversion.pdb

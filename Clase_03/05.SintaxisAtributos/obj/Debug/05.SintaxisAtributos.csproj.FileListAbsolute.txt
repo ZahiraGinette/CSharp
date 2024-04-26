@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\bin\Debug\05.Sintaxis_atributos.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\bin\Debug\05.Sintaxis_atributos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\bin\Debug\05.Sintaxis_atributos.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\obj\Debug\05.SintaxisAtributos.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\obj\Debug\05.SintaxisAtributos.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\obj\Debug\05.Sintaxis_atributos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\05.Sintaxis_atributos\obj\Debug\05.Sintaxis_atributos.pdb

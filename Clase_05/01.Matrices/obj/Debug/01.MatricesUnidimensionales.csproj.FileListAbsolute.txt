@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\bin\Debug\01.Matrices.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\bin\Debug\01.Matrices.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\bin\Debug\01.Matrices.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\obj\Debug\01.MatricesUnidimensionales.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\obj\Debug\01.MatricesUnidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\obj\Debug\01.Matrices.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\01.Matrices\obj\Debug\01.Matrices.pdb

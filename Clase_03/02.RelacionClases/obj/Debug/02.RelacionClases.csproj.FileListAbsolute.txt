@@ -1,0 +1,6 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\bin\Debug\02.Relacion_clases.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\bin\Debug\02.Relacion_clases.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\obj\Debug\02.RelacionClases.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\obj\Debug\02.RelacionClases.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\obj\Debug\02.Relacion_clases.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\02.Relacion_clases\obj\Debug\02.Relacion_clases.pdb

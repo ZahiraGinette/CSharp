@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\bin\Debug\06.Listas_concurrentes.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\bin\Debug\06.Listas_concurrentes.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\bin\Debug\06.Listas_concurrentes.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\obj\Debug\06.ListasConcurrentes.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\obj\Debug\06.ListasConcurrentes.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\obj\Debug\06.Listas_concurrentes.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\06.ListasConcurrentes\obj\Debug\06.Listas_concurrentes.pdb

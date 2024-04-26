@@ -1,0 +1,6 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\bin\Debug\SegundaBiblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\bin\Debug\SegundaBiblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\obj\Debug\SegundaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\obj\Debug\SegundaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\obj\Debug\SegundaBiblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\SegundaBiblioteca\obj\Debug\SegundaBiblioteca.pdb

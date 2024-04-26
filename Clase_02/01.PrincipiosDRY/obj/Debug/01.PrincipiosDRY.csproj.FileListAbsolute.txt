@@ -1,0 +1,11 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\01.PrincipiosDRY.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\01.PrincipiosDRY.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\01.PrincipiosDRY.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\02.ModificadoresAcceso.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\02.ModificadoresAcceso.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\bin\Debug\02.ModificadoresAcceso.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\obj\Debug\01.PrincipiosDRY.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\obj\Debug\01.PrincipiosDRY.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\obj\Debug\01.Princ.449A0E05.Up2Date
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\obj\Debug\01.PrincipiosDRY.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\01.PrincipiosDRY\obj\Debug\01.PrincipiosDRY.pdb

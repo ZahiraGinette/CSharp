@@ -1,0 +1,14 @@
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\bin\Debug\Ejercicio_09.exe.config
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\bin\Debug\Ejercicio_09.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\bin\Debug\Ejercicio_09.pdb
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.AssemblyReference.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\obj\Debug\Ejercicio_09.exe
+C:\Users\zbarr\OneDrive\Escritorio\PP LAB II\Proyectos\Clase 01 - Introducción a .NET Y C#\Ejercicios\Ejercicio_09\obj\Debug\Ejercicio_09.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\bin\Debug\Ejercicio_09.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\bin\Debug\Ejercicio_09.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\bin\Debug\Ejercicio_09.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\obj\Debug\Ejercicio_09.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\obj\Debug\Ejercicio_09.exe
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_01\Ejercicio_09\obj\Debug\Ejercicio_09.pdb

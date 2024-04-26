@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\bin\Debug\EjemploOtroProyecto.exe.config
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\bin\Debug\EjemploOtroProyecto.exe
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\bin\Debug\EjemploOtroProyecto.pdb
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\obj\Debug\EjemploOtroProyecto.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\obj\Debug\EjemploOtroProyecto.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\obj\Debug\EjemploOtroProyecto.exe
+E:\Proyectos\Clases Net\Ejercicio 01\EjemploOtroProyecto\obj\Debug\EjemploOtroProyecto.pdb

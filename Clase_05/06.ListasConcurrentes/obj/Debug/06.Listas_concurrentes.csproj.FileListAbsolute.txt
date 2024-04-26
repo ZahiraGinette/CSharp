@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\bin\Debug\06.Listas_concurrentes.exe.config
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\bin\Debug\06.Listas_concurrentes.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\bin\Debug\06.Listas_concurrentes.pdb
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\obj\Debug\06.Listas_concurrentes.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\obj\Debug\06.Listas_concurrentes.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\obj\Debug\06.Listas_concurrentes.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\06.Listas_concurrentes\obj\Debug\06.Listas_concurrentes.pdb

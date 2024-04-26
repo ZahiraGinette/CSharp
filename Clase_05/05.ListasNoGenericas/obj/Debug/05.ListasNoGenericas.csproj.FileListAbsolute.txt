@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\bin\Debug\05.Listas_no_genericas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\bin\Debug\05.Listas_no_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\bin\Debug\05.Listas_no_genericas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\obj\Debug\05.ListasNoGenericas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\obj\Debug\05.ListasNoGenericas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\obj\Debug\05.Listas_no_genericas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\05.ListasNoGenericas\obj\Debug\05.Listas_no_genericas.pdb

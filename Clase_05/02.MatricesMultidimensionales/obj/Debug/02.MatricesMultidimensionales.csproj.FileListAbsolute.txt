@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\bin\Debug\02.Matrices_multidimensionales.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\bin\Debug\02.Matrices_multidimensionales.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\bin\Debug\02.Matrices_multidimensionales.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\obj\Debug\02.MatricesMultidimensionales.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\obj\Debug\02.MatricesMultidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\obj\Debug\02.Matrices_multidimensionales.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\02.MatricesMultidimensionales\obj\Debug\02.Matrices_multidimensionales.pdb

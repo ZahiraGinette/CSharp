@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\bin\Debug\04.Sintaxis_clases.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\bin\Debug\04.Sintaxis_clases.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\bin\Debug\04.Sintaxis_clases.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\obj\Debug\04.SintaxisClases.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\obj\Debug\04.SintaxisClases.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\obj\Debug\04.Sintaxis_clases.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\04.Sintaxis_clases\obj\Debug\04.Sintaxis_clases.pdb

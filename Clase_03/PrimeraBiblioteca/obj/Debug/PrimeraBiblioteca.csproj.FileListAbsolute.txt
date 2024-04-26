@@ -1,0 +1,6 @@
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\bin\Debug\PrimeraBiblioteca.dll
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\bin\Debug\PrimeraBiblioteca.pdb
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\obj\Debug\PrimeraBiblioteca.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\obj\Debug\PrimeraBiblioteca.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\obj\Debug\PrimeraBiblioteca.dll
+E:\Proyectos\Clases Net\Clase 02\01.Clases\PrimeraBiblioteca\obj\Debug\PrimeraBiblioteca.pdb

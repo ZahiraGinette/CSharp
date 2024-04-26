@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\bin\Debug\03.Matrices_escalonada.exe.config
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\bin\Debug\03.Matrices_escalonada.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\bin\Debug\03.Matrices_escalonada.pdb
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\obj\Debug\03.Matrices_escalonada.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\obj\Debug\03.Matrices_escalonada.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\obj\Debug\03.Matrices_escalonada.exe
+E:\Proyectos\Clases Net\Clase 05\Clase_05\03.Matrices_escalonada\obj\Debug\03.Matrices_escalonada.pdb

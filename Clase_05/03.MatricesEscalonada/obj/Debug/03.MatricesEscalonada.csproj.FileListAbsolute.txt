@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\bin\Debug\03.Matrices_escalonada.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\bin\Debug\03.Matrices_escalonada.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\bin\Debug\03.Matrices_escalonada.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\obj\Debug\03.MatricesEscalonada.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\obj\Debug\03.MatricesEscalonada.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\obj\Debug\03.Matrices_escalonada.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\03.MatricesEscalonada\obj\Debug\03.Matrices_escalonada.pdb

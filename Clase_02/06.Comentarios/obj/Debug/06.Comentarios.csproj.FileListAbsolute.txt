@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\bin\Debug\06.Comentarios.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\bin\Debug\06.Comentarios.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\bin\Debug\06.Comentarios.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\obj\Debug\06.Comentarios.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\obj\Debug\06.Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\obj\Debug\06.Comentarios.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\06.Comentarios\obj\Debug\06.Comentarios.pdb

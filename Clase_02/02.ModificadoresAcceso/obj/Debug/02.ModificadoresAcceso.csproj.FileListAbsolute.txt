@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\bin\Debug\02.ModificadoresAcceso.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\bin\Debug\02.ModificadoresAcceso.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\bin\Debug\02.ModificadoresAcceso.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\obj\Debug\02.ModificadoresAcceso.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\obj\Debug\02.ModificadoresAcceso.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\obj\Debug\02.ModificadoresAcceso.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\02.ModificadoresAcceso\obj\Debug\02.ModificadoresAcceso.pdb

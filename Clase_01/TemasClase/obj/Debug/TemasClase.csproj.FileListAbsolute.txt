@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\bin\Debug\TemasClase.exe.config
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\bin\Debug\TemasClase.exe
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\bin\Debug\TemasClase.pdb
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\obj\Debug\TemasClase.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\obj\Debug\TemasClase.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\obj\Debug\TemasClase.exe
+E:\Proyectos\Clases Net\Ejercicio 01\TemasClase\obj\Debug\TemasClase.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\bin\Debug\TemasClase.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\bin\Debug\TemasClase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\bin\Debug\TemasClase.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\obj\Debug\TemasClase.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\obj\Debug\TemasClase.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\obj\Debug\TemasClase.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_01\TemasClase\obj\Debug\TemasClase.pdb

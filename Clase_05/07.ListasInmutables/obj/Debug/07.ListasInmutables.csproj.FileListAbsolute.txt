@@ -1,0 +1,13 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\07.Listas_inmutables.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\07.Listas_inmutables.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\07.Listas_inmutables.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\System.Buffers.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\System.Collections.Immutable.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\System.Memory.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\obj\Debug\07.ListasInmutables.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\obj\Debug\07.ListasInmutables.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\obj\Debug\07.Lista.F2FDD99F.Up2Date
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\obj\Debug\07.Listas_inmutables.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_05\07.ListasInmutables\obj\Debug\07.Listas_inmutables.pdb

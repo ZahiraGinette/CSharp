@@ -1,0 +1,9 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.Sintaxis_metodos\obj\Debug\06.SintaxisMetodos.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.Sintaxis_metodos\obj\Debug\06.SintaxisMetodos.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\bin\Debug\06.Sintaxis_metodos.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\bin\Debug\06.Sintaxis_metodos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\bin\Debug\06.Sintaxis_metodos.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\obj\Debug\06.SintaxisMetodos.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\obj\Debug\06.SintaxisMetodos.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\obj\Debug\06.Sintaxis_metodos.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_03\06.SintaxisMetodos\obj\Debug\06.Sintaxis_metodos.pdb

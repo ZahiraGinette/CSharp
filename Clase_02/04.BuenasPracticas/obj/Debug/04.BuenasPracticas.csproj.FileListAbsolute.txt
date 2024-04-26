@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\bin\Debug\04.BuenasPracticas.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\bin\Debug\04.BuenasPracticas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\bin\Debug\04.BuenasPracticas.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\obj\Debug\04.BuenasPracticas.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\obj\Debug\04.BuenasPracticas.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\obj\Debug\04.BuenasPracticas.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_02\04.BuenasPracticas\obj\Debug\04.BuenasPracticas.pdb
