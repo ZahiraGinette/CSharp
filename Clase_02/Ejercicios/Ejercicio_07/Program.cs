@@ -32,6 +32,10 @@ namespace Ejercicio_07
             Console.ReadLine(); 
         }
 
+        /// <summary>
+        /// Obtiene un número ingresado por el usuario, validando que sea positivo.
+        /// </summary>
+        /// <returns>El número ingresado.</returns>
         static double ObtenerNumeroIngresado()
         {
             double numero;
@@ -42,6 +46,12 @@ namespace Ejercicio_07
             return numero;
         }
 
+        /// <summary>
+        /// Calcula la hipotenusa de un triángulo utilizando el teorema de Pitágoras.
+        /// </summary>
+        /// <param name="baseTriangulo">La base del triángulo.</param>
+        /// <param name="alturaTriangulo">La altura del triángulo.</param>
+        /// <returns>La longitud de la hipotenusa.</returns>
         static double CalcularHipotenusa(double baseTriangulo, double alturaTriangulo)
         {
             double hipotenusa = Math.Sqrt(Math.Pow(baseTriangulo, 2) + Math.Pow(alturaTriangulo, 2));

@@ -47,6 +47,11 @@ namespace Ejercicio_05
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Obtiene la tabla de multiplicar de un número dado.
+        /// </summary>
+        /// <param name="numero">El número entero para el cual se generará la tabla de multiplicar.</param>
+        /// <returns>La tabla de multiplicar en formato string.</returns>
         public static string ObtenerTablaMultiplicar(int numero)
         {
             StringBuilder tabla = new StringBuilder();

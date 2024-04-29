@@ -33,6 +33,11 @@ namespace Ejercicio_08
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Calcula el número de días vividos desde la fecha de nacimiento hasta la fecha actual.
+        /// </summary>
+        /// <param name="fechaNacimiento">La fecha de nacimiento de la persona.</param>
+        /// <returns>El número de días vividos.</returns>
         static int CalcularDiasVividos(DateTime fechaNacimiento)
         {
             TimeSpan diferencia = DateTime.Now - fechaNacimiento;

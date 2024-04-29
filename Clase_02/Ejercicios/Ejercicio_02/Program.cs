@@ -32,7 +32,7 @@ namespace Ejercicio_02
                 acumulador = acumulador + number;
                 Console.Write("\nContinua? S/N: ");
                 respuesta = Console.ReadKey().KeyChar;
-            } while (ValidarRespuesta.ValidaS_N(respuesta));
+            } while (ValidarRespuesta.Validar(respuesta));
             Console.WriteLine("\n\nTotal: {0}", acumulador);
             Console.ReadKey();
         }

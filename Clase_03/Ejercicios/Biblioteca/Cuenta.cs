@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Biblioteca
 {
+    /// <summary>
+    /// Representa un cliente una cuenta corriente.
+    /// </summary>
     public class Cuenta
     {
         #region Atributos
