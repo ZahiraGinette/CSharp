@@ -1,4 +1,4 @@
-# 🚀 CSharp: Material Práctico para Programación II y Laboratorio II
+# 🚀 C#: Material práctico para Programación II y Laboratorio II
 
 ## Descripción
 ¡Bienvenido al emocionante mundo del lenguaje C#! Este repositorio es tu compañero de aventuras en las materias de Programación II y Laboratorio II. Aquí encontrarás tesoros de conocimiento, ejercicios resueltos y recursos prácticos para fortalecer tus habilidades.
