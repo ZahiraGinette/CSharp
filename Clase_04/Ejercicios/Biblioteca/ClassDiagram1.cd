@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Biblioteca.Celsius" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAIAAEAAAABAIAAAAAAAAAAiQ=</HashCode>
+      <FileName>Celsius.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Conversor" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Conversor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Fahrenheit" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAIAAEAAAABAIAAAAAAAAAAiQ=</HashCode>
+      <FileName>Fahrenheit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Kelvin" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAEAIAAEAAAABAIAAAAAAAABAiA=</HashCode>
+      <FileName>Kelvin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.NumeroBinario" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAAAEQAEAAAAAAAAAAAAAAAEAAAABAiA=</HashCode>
+      <FileName>NumeroBinario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.NumeroDecimal" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAQAAQAEAAAAAAAAAAAAAAAEAAAABAiA=</HashCode>
+      <FileName>NumeroDecimal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biblioteca.Sumador" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAAIAAAAAAQAAAAAAAAAAAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sumador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Billetes.Dolar">
+    <Position X="9.25" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AwAAAEEIAAAAAAAAQAEgCAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Dolar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Billetes.Euro">
+    <Position X="12.75" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AwAAAEEAAAAAAQAAQAEACAAAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Euro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Billetes.Peso">
+    <Position X="16.25" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAEIAAAAAQAAQAEACAgAAAAAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Peso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

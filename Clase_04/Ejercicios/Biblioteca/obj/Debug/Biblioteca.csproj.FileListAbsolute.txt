@@ -1,0 +1,16 @@
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Ejercicios\Clase_04\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_04\Ejercicios\Biblioteca\obj\Debug\Biblioteca.pdb
