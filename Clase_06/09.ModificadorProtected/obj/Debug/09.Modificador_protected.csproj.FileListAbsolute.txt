@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\bin\Debug\09.Modificador_protected.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\bin\Debug\09.Modificador_protected.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\bin\Debug\09.Modificador_protected.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\obj\Debug\09.Modificador_protected.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\obj\Debug\09.Modificador_protected.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\obj\Debug\09.Modificador_protected.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\09.Modificador_protected\obj\Debug\09.Modificador_protected.pdb

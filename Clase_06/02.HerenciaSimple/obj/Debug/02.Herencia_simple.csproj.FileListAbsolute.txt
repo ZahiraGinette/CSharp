@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\bin\Debug\02.Herencia_simple.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\bin\Debug\02.Herencia_simple.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\bin\Debug\02.Herencia_simple.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\obj\Debug\02.Herencia_simple.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\obj\Debug\02.Herencia_simple.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\obj\Debug\02.Herencia_simple.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\02.Herencia_simple\obj\Debug\02.Herencia_simple.pdb

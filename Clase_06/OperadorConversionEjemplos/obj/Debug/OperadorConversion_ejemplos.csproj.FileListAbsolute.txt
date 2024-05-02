@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\bin\Debug\OperadorConversion_ejemplos.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\bin\Debug\OperadorConversion_ejemplos.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\bin\Debug\OperadorConversion_ejemplos.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\obj\Debug\OperadorConversion_ejemplos.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\obj\Debug\OperadorConversion_ejemplos.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\obj\Debug\OperadorConversion_ejemplos.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversion_ejemplos\obj\Debug\OperadorConversion_ejemplos.pdb

@@ -1,0 +1,10 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\bin\Debug\Ejercicios_02.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\bin\Debug\Ejercicios_02.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\bin\Debug\Ejercicios_02.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\bin\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\bin\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\obj\Debug\Ejercicios_02.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\obj\Debug\Ejercicios_02.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\obj\Debug\Ejercici.13FEC82A.Up2Date
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\obj\Debug\Ejercicios_02.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_06\Ejercicios\Ejercicios_02\obj\Debug\Ejercicios_02.pdb

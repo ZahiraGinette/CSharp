@@ -109,7 +109,7 @@ namespace Biblioteca
         /// <returns>True si los jugadores tienen DNI diferentes, de lo contrario, False.</returns>
         public static bool operator !=(Jugador jugador1, Jugador jugador2)
         {
-            return !(jugador1.dni == jugador2.dni);
+            return !(jugador1 == jugador2);
         }
         #endregion
     }

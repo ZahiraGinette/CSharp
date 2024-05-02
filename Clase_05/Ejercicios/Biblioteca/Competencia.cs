@@ -18,10 +18,6 @@ namespace Biblioteca
         private List<AutoF1> competidores;
         #endregion
 
-        #region Propiedades
-        // No hay propiedades en esta clase
-        #endregion
-
         #region Constructores
         /// <summary>
         /// Constructor privado para evitar instanciación sin parámetros.

@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\bin\Debug\OperadorConversionMain.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\bin\Debug\OperadorConversionMain.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\bin\Debug\OperadorConversionMain.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\obj\Debug\OperadorConversionMain.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\obj\Debug\OperadorConversionMain.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\obj\Debug\OperadorConversionMain.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\OperadorConversionMain\obj\Debug\OperadorConversionMain.pdb

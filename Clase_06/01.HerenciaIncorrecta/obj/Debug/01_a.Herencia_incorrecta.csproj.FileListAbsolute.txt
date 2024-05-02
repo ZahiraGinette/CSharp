@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\bin\Debug\01_a.Herencia_incorrecta.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\bin\Debug\01_a.Herencia_incorrecta.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\bin\Debug\01_a.Herencia_incorrecta.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\obj\Debug\01_a.Herencia_incorrecta.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\obj\Debug\01_a.Herencia_incorrecta.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\obj\Debug\01_a.Herencia_incorrecta.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\01_a.Herencia_incorrecta\obj\Debug\01_a.Herencia_incorrecta.pdb

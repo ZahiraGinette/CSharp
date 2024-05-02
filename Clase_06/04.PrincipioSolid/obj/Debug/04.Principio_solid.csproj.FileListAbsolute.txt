@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\bin\Debug\04.Principio_solid.exe.config
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\bin\Debug\04.Principio_solid.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\bin\Debug\04.Principio_solid.pdb
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\obj\Debug\04.Principio_solid.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\obj\Debug\04.Principio_solid.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\obj\Debug\04.Principio_solid.exe
+E:\Proyectos\Clases Net\Clase 06\Clase_06\04.Principio_solid\obj\Debug\04.Principio_solid.pdb
