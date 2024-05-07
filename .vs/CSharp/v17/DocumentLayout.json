@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D85B9CCD-9F18-4F86-A248-C8B216E69D59}|Clase_06\\Ejercicios\\Ejercicio_04\\Ejercicio_04.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_06\\ejercicios\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85B9CCD-9F18-4F86-A248-C8B216E69D59}|Clase_06\\Ejercicios\\Ejercicio_04\\Ejercicio_04.csproj|solutionrelative:clase_06\\ejercicios\\ejercicio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A137427C-DDA5-484F-B348-09A508AA0894}|Clase_07\\Ejercicios\\Ejercicio_01\\Ejercicio_01.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_07\\ejercicios\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A137427C-DDA5-484F-B348-09A508AA0894}|Clase_07\\Ejercicios\\Ejercicio_01\\Ejercicio_01.csproj|solutionrelative:clase_07\\ejercicios\\ejercicio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_06\\ejercicios\\biblioteca\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_06\\ejercicios\\biblioteca\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A863F6-15B8-46C9-9B4C-7CA4B096EB39}|Clase_07\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_07\\ejercicios\\biblioteca\\sobresobrescrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A863F6-15B8-46C9-9B4C-7CA4B096EB39}|Clase_07\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_07\\ejercicios\\biblioteca\\sobresobrescrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_06\\ejercicios\\biblioteca\\motocross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_06\\ejercicios\\biblioteca\\motocross.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_06\\ejercicios\\biblioteca\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_06\\ejercicios\\biblioteca\\autof1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_06\\ejercicios\\biblioteca\\vehiculodecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F604D7-970D-4C89-952A-98558416D4DC}|Clase_06\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_06\\ejercicios\\biblioteca\\vehiculodecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6D26922-B69A-478C-9B88-4801145CF778}|Clase_06\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_06\\ejercicios\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6D26922-B69A-478C-9B88-4801145CF778}|Clase_06\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:clase_06\\ejercicios\\ejercicio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A863F6-15B8-46C9-9B4C-7CA4B096EB39}|Clase_07\\Ejercicios\\Biblioteca\\Biblioteca.csproj|C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\clase_07\\ejercicios\\biblioteca\\sobrescrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A863F6-15B8-46C9-9B4C-7CA4B096EB39}|Clase_07\\Ejercicios\\Biblioteca\\Biblioteca.csproj|solutionrelative:clase_07\\ejercicios\\biblioteca\\sobrescrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Ejercicio_03\\Program.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Ejercicio_03\\Program.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Ejercicio_03\\Program.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Ejercicio_03\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T00:01:49.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Ejercicio_04\\Program.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Ejercicio_04\\Program.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Ejercicio_04\\Program.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Ejercicio_04\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA6AAAA",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Ejercicio_01\\Program.cs",
+              "RelativeDocumentMoniker": "Clase_07\\Ejercicios\\Ejercicio_01\\Program.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Ejercicio_01\\Program.cs",
+              "RelativeToolTip": "Clase_07\\Ejercicios\\Ejercicio_01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T00:01:38.291Z",
+              "WhenOpened": "2024-05-07T00:23:17.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Competencia.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\Competencia.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Biblioteca\\Competencia.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\Competencia.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Biblioteca\\Competencia.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGAAAAAkAAAA",
+              "Title": "SobreSobrescrito.cs",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Biblioteca\\SobreSobrescrito.cs",
+              "RelativeDocumentMoniker": "Clase_07\\Ejercicios\\Biblioteca\\SobreSobrescrito.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Biblioteca\\SobreSobrescrito.cs",
+              "RelativeToolTip": "Clase_07\\Ejercicios\\Biblioteca\\SobreSobrescrito.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:25:32.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:22:59.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MotoCross.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\MotoCross.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Biblioteca\\MotoCross.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\MotoCross.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Biblioteca\\MotoCross.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowD4AAAAzAAAA",
+              "Title": "Sobrescrito.cs",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Biblioteca\\Sobrescrito.cs",
+              "RelativeDocumentMoniker": "Clase_07\\Ejercicios\\Biblioteca\\Sobrescrito.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_07\\Ejercicios\\Biblioteca\\Sobrescrito.cs",
+              "RelativeToolTip": "Clase_07\\Ejercicios\\Biblioteca\\Sobrescrito.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswEkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T20:00:58.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AutoF1.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\AutoF1.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Biblioteca\\AutoF1.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\AutoF1.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Biblioteca\\AutoF1.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAnwEEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:37:04.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VehiculoDeCarrera.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\VehiculoDeCarrera.cs",
-              "RelativeDocumentMoniker": "Clase_06\\Ejercicios\\Biblioteca\\VehiculoDeCarrera.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_06\\Ejercicios\\Biblioteca\\VehiculoDeCarrera.cs",
-              "RelativeToolTip": "Clase_06\\Ejercicios\\Biblioteca\\VehiculoDeCarrera.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAewGEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:36:05.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T00:20:42.306Z"
             }
           ]
         }

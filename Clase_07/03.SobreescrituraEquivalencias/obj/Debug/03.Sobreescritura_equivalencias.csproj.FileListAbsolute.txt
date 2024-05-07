@@ -1,0 +1,14 @@
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.exe.config
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.exe
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.pdb
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.csproj.AssemblyReference.cache
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.csproj.CoreCompileInputs.cache
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.exe
+C:\Users\vbustos\source\repos\Clase_07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.pdb
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.exe.config
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.exe
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\bin\Debug\03.Sobreescritura_equivalencias.pdb
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.exe
+E:\Proyectos\Clases Net\Clase 07\03.Sobreescritura_equivalencias\obj\Debug\03.Sobreescritura_equivalencias.pdb

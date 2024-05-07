@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\bin\Debug\04.ClaseAbastractca.exe.config
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\bin\Debug\04.ClaseAbastractca.exe
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\bin\Debug\04.ClaseAbastractca.pdb
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\obj\Debug\04.ClaseAbastracta.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\obj\Debug\04.ClaseAbastracta.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\obj\Debug\04.ClaseAbastractca.exe
+E:\Proyectos\Clases Net\Clase 07\04.ClaseAbastractca\obj\Debug\04.ClaseAbastractca.pdb

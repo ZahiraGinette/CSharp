@@ -1,0 +1,14 @@
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.exe.config
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.exe
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.pdb
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.csproj.AssemblyReference.cache
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.csproj.CoreCompileInputs.cache
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.exe
+C:\Users\vbustos\source\repos\Clase_07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.pdb
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.exe.config
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.exe
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\bin\Debug\02.Herencia_no_polimorfica.pdb
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.exe
+E:\Proyectos\Clases Net\Clase 07\02.Herencia_no_polimorfica\obj\Debug\02.Herencia_no_polimorfica.pdb

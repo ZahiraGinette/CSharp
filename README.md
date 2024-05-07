@@ -12,5 +12,6 @@ _¡Explora, aprende y disfruta programando en C#!_
 * [Clase 04 - Sobrecarga y encapsulamiento](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_04)
 * [Clase 05 - Arrays y colecciones](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_05)
 * [Clase 06 - Herencia](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_06)
+* [Clase 07 - Polimorfismo y clases abstractas](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_07)
 
 _¡Prepárate para una aventura épica en el mundo del código!_ 🎮💻
