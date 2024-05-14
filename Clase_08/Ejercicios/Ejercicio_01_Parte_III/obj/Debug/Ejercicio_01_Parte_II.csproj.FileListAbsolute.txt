@@ -1,0 +1,11 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\bin\Debug\Ejercicio_01.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\bin\Debug\Ejercicio_01.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\bin\Debug\Ejercicio_01.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01_Parte_II.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01_Parte_II.FrmMensaje.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01_Parte_II.FrmSaludar.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01.Properties.Resources.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01_Parte_II.csproj.GenerateResource.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01_Parte_II.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_01_Parte_II\obj\Debug\Ejercicio_01.pdb

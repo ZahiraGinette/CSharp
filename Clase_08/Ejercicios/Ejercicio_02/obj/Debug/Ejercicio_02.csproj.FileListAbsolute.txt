@@ -1,0 +1,14 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.Properties.Resources.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.GenerateResource.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.FrmRegistro.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercicio_02.FrmMensaje.resources
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\bin\Debug\Biblioteca.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\bin\Debug\Biblioteca.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_08\Ejercicios\Ejercicio_02\obj\Debug\Ejercici.CB396643.Up2Date

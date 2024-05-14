@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_08\\ejercicios\\ejercicio_03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:clase_08\\ejercicios\\ejercicio_03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_08\\ejercicios\\ejercicio_03\\frmdescuento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:clase_08\\ejercicios\\ejercicio_03\\frmdescuento.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_08\\ejercicios\\ejercicio_03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3ED310-FFB8-4CC3-B27E-E09AC3EC2BC6}|Clase_08\\Ejercicios\\Ejercicio_03\\Ejercicio_03.csproj|solutionrelative:clase_08\\ejercicios\\ejercicio_03\\frmdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDescuento.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.Designer.cs",
+              "RelativeDocumentMoniker": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.Designer.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.Designer.cs",
+              "RelativeToolTip": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:50:17.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "RelativeDocumentMoniker": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "RelativeToolTip": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T13:09:38.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDescuento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "RelativeDocumentMoniker": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs",
+              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Clase_08\\Ejercicios\\Ejercicio_03\\FrmDescuento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:41:44.096Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
