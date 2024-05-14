@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\bin\Debug\05.Serealizacion_XML.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\bin\Debug\05.Serealizacion_XML.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\bin\Debug\05.Serealizacion_XML.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\obj\Debug\05.SerealizacionXML.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\obj\Debug\05.SerealizacionXML.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\obj\Debug\05.Serealizacion_XML.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\05.SerealizacionXML\obj\Debug\05.Serealizacion_XML.pdb

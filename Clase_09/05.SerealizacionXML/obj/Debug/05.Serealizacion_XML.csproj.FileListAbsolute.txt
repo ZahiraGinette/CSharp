@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\bin\Debug\05.Serealizacion_XML.exe.config
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\bin\Debug\05.Serealizacion_XML.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\bin\Debug\05.Serealizacion_XML.pdb
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\obj\Debug\05.Serealizacion_XML.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\obj\Debug\05.Serealizacion_XML.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\obj\Debug\05.Serealizacion_XML.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\05.Serealizacion_XML\obj\Debug\05.Serealizacion_XML.pdb

@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\bin\Debug\06.Xml_textWritter.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\bin\Debug\06.Xml_textWritter.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\bin\Debug\06.Xml_textWritter.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\obj\Debug\06.XmlTextWritter.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\obj\Debug\06.XmlTextWritter.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\obj\Debug\06.Xml_textWritter.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\06.XmlTextWritter\obj\Debug\06.Xml_textWritter.pdb

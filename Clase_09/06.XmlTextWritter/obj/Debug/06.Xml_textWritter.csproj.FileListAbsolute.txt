@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\bin\Debug\06.Xml_textWritter.exe.config
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\bin\Debug\06.Xml_textWritter.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\bin\Debug\06.Xml_textWritter.pdb
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\obj\Debug\06.Xml_textWritter.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\obj\Debug\06.Xml_textWritter.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\obj\Debug\06.Xml_textWritter.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\06.Xml_textWritter\obj\Debug\06.Xml_textWritter.pdb

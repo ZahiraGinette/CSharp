@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.exe.config
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.pdb
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\bin\Debug\03.StreamReader.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\03.StreamReader\obj\Debug\03.StreamReader.pdb

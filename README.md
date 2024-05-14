@@ -14,5 +14,6 @@ _¡Explora, aprende y disfruta programando en C#!_
 * [Clase 06 - Herencia](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_06)
 * [Clase 07 - Polimorfismo y clases abstractas](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_07)
 * [Clase 08 - Windows Forms](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_08)
+* [Clase 09 - Archivos y serialización](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_09)
 
 _¡Prepárate para una aventura épica en el mundo del código!_ 🎮💻

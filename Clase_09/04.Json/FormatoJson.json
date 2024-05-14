@@ -1,0 +1,7 @@
+{
+  "propiedadTexto": "valor", // string
+  "propiedadNumerica": 30, // númerico
+  "propiedadBooleana": true, // boolean
+  "propiedadNula": null, // objeto
+  "propiedadColeccion" :  []  // colección de elementos
+}

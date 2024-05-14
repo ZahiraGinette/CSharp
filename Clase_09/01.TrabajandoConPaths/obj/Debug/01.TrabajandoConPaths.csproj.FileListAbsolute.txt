@@ -1,0 +1,7 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\bin\Debug\01.Trabajando_con_paths.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\bin\Debug\01.Trabajando_con_paths.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\bin\Debug\01.Trabajando_con_paths.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\obj\Debug\01.TrabajandoConPaths.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\obj\Debug\01.TrabajandoConPaths.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\obj\Debug\01.Trabajando_con_paths.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\01.TrabajandoConPaths\obj\Debug\01.Trabajando_con_paths.pdb

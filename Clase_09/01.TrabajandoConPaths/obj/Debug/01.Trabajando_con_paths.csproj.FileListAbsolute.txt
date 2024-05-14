@@ -1,0 +1,7 @@
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\bin\Debug\01.Trabajando_con_paths.exe.config
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\bin\Debug\01.Trabajando_con_paths.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\bin\Debug\01.Trabajando_con_paths.pdb
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\obj\Debug\01.Trabajando_con_paths.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\obj\Debug\01.Trabajando_con_paths.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\obj\Debug\01.Trabajando_con_paths.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\01.Trabajando_con_paths\obj\Debug\01.Trabajando_con_paths.pdb

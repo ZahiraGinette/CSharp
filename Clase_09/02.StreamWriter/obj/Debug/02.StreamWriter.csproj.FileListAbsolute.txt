@@ -1,0 +1,14 @@
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.exe.config
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.pdb
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.csproj.AssemblyReference.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.csproj.CoreCompileInputs.cache
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.exe
+E:\Proyectos\Clases Net\Clase 09\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\bin\Debug\02.StreamWriter.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Clase_09\02.StreamWriter\obj\Debug\02.StreamWriter.pdb
