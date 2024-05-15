@@ -8,7 +8,7 @@ _¡Explora, aprende y disfruta programando en C#!_
 ## 🗂️ Temas
 * [Clase 01 - Introducción a .NET y C#](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_01)
 * [Clase 02 - Clases y métodos estaticos](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_02)
-* [Clase 03 - Programación orientada a objeto (PDO)](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_03)
+* [Clase 03 - Programación orientada a objeto (POO)](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_03)
 * [Clase 04 - Sobrecarga y encapsulamiento](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_04)
 * [Clase 05 - Arrays y colecciones](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_05)
 * [Clase 06 - Herencia](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_06)
