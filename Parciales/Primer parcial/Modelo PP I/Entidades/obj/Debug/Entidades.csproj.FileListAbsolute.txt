@@ -1,0 +1,12 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\ModeloPrimerParcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\bin\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\obj\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP I\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\bin\Debug\02.Try_catch.exe.config
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\bin\Debug\02.Try_catch.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\bin\Debug\02.Try_catch.pdb
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\obj\Debug\02.Try_catch.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\obj\Debug\02.Try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\obj\Debug\02.Try_catch.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\02.Try_catch\obj\Debug\02.Try_catch.pdb

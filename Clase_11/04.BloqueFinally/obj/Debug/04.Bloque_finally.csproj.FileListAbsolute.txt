@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\bin\Debug\04.Bloque_finally.exe.config
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\bin\Debug\04.Bloque_finally.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\bin\Debug\04.Bloque_finally.pdb
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\obj\Debug\04.Bloque_finally.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\obj\Debug\04.Bloque_finally.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\obj\Debug\04.Bloque_finally.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\04.Bloque_finally\obj\Debug\04.Bloque_finally.pdb

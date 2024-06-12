@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\bin\Debug\06.Trow.exe.config
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\bin\Debug\06.Trow.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\bin\Debug\06.Trow.pdb
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\obj\Debug\05.Throw.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\obj\Debug\05.Throw.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\obj\Debug\06.Trow.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Trow\obj\Debug\06.Trow.pdb

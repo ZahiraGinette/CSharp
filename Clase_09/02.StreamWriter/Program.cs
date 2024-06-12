@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO; 
 
-namespace _02.StreamWriter
+namespace StreamWriter
 {
     public class Program
     {

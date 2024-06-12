@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06.Xml_textWritter
+namespace XmlTextWritter
 {
     public class Producto
     {

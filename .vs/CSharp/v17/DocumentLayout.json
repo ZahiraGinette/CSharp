@@ -1,71 +1,19 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{FA36CD5A-BEFB-4E9D-9C77-6308BE46CEDF}|Clase_09\\06.XmlTextWritter\\06.XmlTextWritter.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_09\\06.xmltextwritter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA36CD5A-BEFB-4E9D-9C77-6308BE46CEDF}|Clase_09\\06.XmlTextWritter\\06.XmlTextWritter.csproj|solutionrelative:clase_09\\06.xmltextwritter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE91780-7E4C-4D48-BB97-386F149BC18C}|Clase_09\\05.SerealizacionXML\\05.SerealizacionXML.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_09\\05.serealizacionxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE91780-7E4C-4D48-BB97-386F149BC18C}|Clase_09\\05.SerealizacionXML\\05.SerealizacionXML.csproj|solutionrelative:clase_09\\05.serealizacionxml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D186D37F-4161-494A-8841-50F0075D927A}|Clase_09\\04.Json\\04.JsonSerealizar.csproj|c:\\users\\zbarr\\documents\\pp lab ii\\proyectos\\clase_09\\04.json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D186D37F-4161-494A-8841-50F0075D927A}|Clase_09\\04.Json\\04.JsonSerealizar.csproj|solutionrelative:clase_09\\04.json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 164,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\06.XmlTextWritter\\Program.cs",
-              "RelativeDocumentMoniker": "Clase_09\\06.XmlTextWritter\\Program.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\06.XmlTextWritter\\Program.cs",
-              "RelativeToolTip": "Clase_09\\06.XmlTextWritter\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAawBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:03:52.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\05.SerealizacionXML\\Program.cs",
-              "RelativeDocumentMoniker": "Clase_09\\05.SerealizacionXML\\Program.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\05.SerealizacionXML\\Program.cs",
-              "RelativeToolTip": "Clase_09\\05.SerealizacionXML\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAawBoAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:02:41.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\04.Json\\Program.cs",
-              "RelativeDocumentMoniker": "Clase_09\\04.Json\\Program.cs",
-              "ToolTip": "C:\\Users\\zbarr\\Documents\\PP LAB II\\Proyectos\\Clase_09\\04.Json\\Program.cs",
-              "RelativeToolTip": "Clase_09\\04.Json\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:00:58.675Z",
-              "EditorCaption": ""
             }
           ]
         }

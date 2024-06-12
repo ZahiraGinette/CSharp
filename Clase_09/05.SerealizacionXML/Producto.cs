@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _05.Serealizacion_XML
+namespace SerealizacionXML
 {
     public class Producto
     {

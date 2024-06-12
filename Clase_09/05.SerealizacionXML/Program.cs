@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace _05.Serealizacion_XML
+namespace SerealizacionXML
 {
     public class Program
     {

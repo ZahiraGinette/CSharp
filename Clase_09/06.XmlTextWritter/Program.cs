@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace _06.Xml_textWritter
+namespace XmlTextWritter
 {
     public class Program
     {

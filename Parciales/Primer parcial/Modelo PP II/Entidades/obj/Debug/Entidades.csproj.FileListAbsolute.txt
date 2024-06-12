@@ -1,0 +1,6 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\bin\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\obj\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Entidades\obj\Debug\Entidades.pdb

@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks; 
 
-namespace _04.Json
+namespace Json
 {
     public class Program
     {

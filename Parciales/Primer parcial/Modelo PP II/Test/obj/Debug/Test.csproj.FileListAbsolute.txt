@@ -1,0 +1,10 @@
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\bin\Debug\Test.exe.config
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\bin\Debug\Test.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\bin\Debug\Test.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\bin\Debug\Entidades.dll
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\bin\Debug\Entidades.pdb
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\obj\Debug\Test.exe
+C:\Users\zbarr\Documents\PP LAB II\Proyectos\Parciales\Primer parcial\Modelo PP II\Test\obj\Debug\Test.pdb

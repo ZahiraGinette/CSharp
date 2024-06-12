@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\bin\Debug\06.Excepciones_propias.exe.config
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\bin\Debug\06.Excepciones_propias.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\bin\Debug\06.Excepciones_propias.pdb
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\obj\Debug\06.Excepciones_propias.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\obj\Debug\06.Excepciones_propias.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\obj\Debug\06.Excepciones_propias.exe
+C:\Users\Verito\Desktop\Prueba\Clase_11\06.Excepciones_propias\obj\Debug\06.Excepciones_propias.pdb

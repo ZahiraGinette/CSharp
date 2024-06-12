@@ -41,12 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cancion.cs" />
     <Compile Include="Curso.cs" />
-    <Compile Include="ElementoMultimedia.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="Ingresante.cs" />
-    <Compile Include="ListaReproduccion.cs" />
     <Compile Include="Persona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

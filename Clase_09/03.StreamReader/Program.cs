@@ -1,5 +1,6 @@
 ﻿using System; 
-namespace _03.StreamReader
+
+namespace StreamReader
 {
     internal class Program
     {

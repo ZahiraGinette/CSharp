@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.Estante">
+    <Position X="8.75" Y="0.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAABQAkAAAAEAAAEAAAgAAAAAAAAYqg=</HashCode>
+      <FileName>Estante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Galletita">
+    <Position X="0.5" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAEAAAwAAAAAAAAAAAAgAAAIAAAAAA=</HashCode>
+      <FileName>Galletita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Gaseosa">
+    <Position X="9.5" Y="7.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAAAAAEAAAQAAAAAAAQAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Gaseosa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Harina">
+    <Position X="2" Y="9.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAEAAAQAAAAAAABAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Harina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Jugo">
+    <Position X="13" Y="3.25" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAEAAgQAAAAAAAAAAAEAAAAIAAAAAA=</HashCode>
+      <FileName>Jugo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Producto">
+    <Position X="4.25" Y="3.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAoBAAAAACAQAAwAAAAAAQAAAAAAgAAAAAIAAAAmA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Entidades.EMarcaProducto" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAEAAgAAAAAAAAAEAJAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ESaborJugo" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ETipoHarina">
+    <Position X="14.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Entidades.ETipoProducto" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAAAAAAAEAAAAAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

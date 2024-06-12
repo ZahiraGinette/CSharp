@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace _01.Trabajando_con_paths
+namespace TrabajandoConPaths
 {
     public class Program
     {
