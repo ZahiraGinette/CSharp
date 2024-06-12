@@ -15,5 +15,13 @@ _¡Explora, aprende y disfruta programando en C#!_
 * [Clase 07 - Polimorfismo y clases abstractas](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_07)
 * [Clase 08 - Windows Forms](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_08)
 * [Clase 09 - Archivos y serialización](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_09)
+* [Clase 11 - Excepciones](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_11)
+* [Clase 14 - Interfaces y tipos genéricos](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_14)
+* [Clase 15 - Base de datos](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_15)
+* [Clase 17 - Delegados y expresiones lambda ](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_17)
+
+## 🗂️ Modelos
+* [PP I](https://github.com/ZahiraGinette/CSharp/tree/main/Parciales/Primer%20parcial/Modelo%20PP%20I)
+* [PP II](https://github.com/ZahiraGinette/CSharp/tree/main/Parciales/Primer%20parcial/Modelo%20PP%20II)
 
 _¡Prepárate para una aventura épica en el mundo del código!_ 🎮💻
