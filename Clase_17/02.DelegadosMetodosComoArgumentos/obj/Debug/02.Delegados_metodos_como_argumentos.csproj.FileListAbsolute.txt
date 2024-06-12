@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\bin\Debug\02.Delegados_metodos_como_argumentos.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\bin\Debug\02.Delegados_metodos_como_argumentos.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\bin\Debug\02.Delegados_metodos_como_argumentos.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\obj\Debug\02.Delegados_metodos_como_argumentos.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\obj\Debug\02.Delegados_metodos_como_argumentos.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\obj\Debug\02.Delegados_metodos_como_argumentos.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\02.Delegados_metodos_como_argumentos\obj\Debug\02.Delegados_metodos_como_argumentos.pdb

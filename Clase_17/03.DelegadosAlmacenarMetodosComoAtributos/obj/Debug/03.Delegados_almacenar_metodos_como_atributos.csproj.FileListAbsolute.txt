@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\bin\Debug\03.Delegados_almacenar_metodos_como_atributos.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\bin\Debug\03.Delegados_almacenar_metodos_como_atributos.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\bin\Debug\03.Delegados_almacenar_metodos_como_atributos.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\obj\Debug\03.Delegados_almacenar_metodos_como_atributos.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\obj\Debug\03.Delegados_almacenar_metodos_como_atributos.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\obj\Debug\03.Delegados_almacenar_metodos_como_atributos.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\03.Delegados_almacenar_metodos_como_atributos\obj\Debug\03.Delegados_almacenar_metodos_como_atributos.pdb

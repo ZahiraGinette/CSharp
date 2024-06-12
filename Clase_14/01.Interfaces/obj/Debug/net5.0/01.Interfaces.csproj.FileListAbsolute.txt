@@ -1,0 +1,16 @@
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.exe
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.deps.json
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.runtimeconfig.json
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.runtimeconfig.dev.json
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.dll
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\ref\01.Interfaces.dll
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\bin\Debug\net5.0\01.Interfaces.pdb
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.csproj.AssemblyReference.cache
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.AssemblyInfoInputs.cache
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.AssemblyInfo.cs
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.dll
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\ref\01.Interfaces.dll
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.pdb
+C:\Users\vbustos\Desktop\Clase_14\01.Interfaces\obj\Debug\net5.0\01.Interfaces.genruntimeconfig.cache

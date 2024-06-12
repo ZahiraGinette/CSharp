@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\bin\Debug\07.Delegados_Multidifusion.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\bin\Debug\07.Delegados_Multidifusion.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\bin\Debug\07.Delegados_Multidifusion.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\obj\Debug\07.Delegados_Multidifusion.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\obj\Debug\07.Delegados_Multidifusion.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\obj\Debug\07.Delegados_Multidifusion.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\07.Delegados_Multidifusion\obj\Debug\07.Delegados_Multidifusion.pdb

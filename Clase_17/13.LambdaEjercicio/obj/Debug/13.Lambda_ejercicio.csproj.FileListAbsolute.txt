@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\bin\Debug\13.Lambda_ejercicio.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\bin\Debug\13.Lambda_ejercicio.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\bin\Debug\13.Lambda_ejercicio.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\obj\Debug\13.Lambda_ejercicio.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\obj\Debug\13.Lambda_ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\obj\Debug\13.Lambda_ejercicio.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\13.Lambda_ejercicio\obj\Debug\13.Lambda_ejercicio.pdb

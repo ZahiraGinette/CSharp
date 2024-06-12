@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\bin\Debug\08.Delegados_ejercicio.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\bin\Debug\08.Delegados_ejercicio.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\bin\Debug\08.Delegados_ejercicio.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\obj\Debug\08.Delegados_ejercicio.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\obj\Debug\08.Delegados_ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\obj\Debug\08.Delegados_ejercicio.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\08.Delegados_ejercicio\obj\Debug\08.Delegados_ejercicio.pdb

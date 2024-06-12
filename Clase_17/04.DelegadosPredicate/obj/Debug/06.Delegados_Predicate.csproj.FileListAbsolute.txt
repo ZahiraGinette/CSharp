@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\bin\Debug\04.Delegados_Predicate.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\bin\Debug\04.Delegados_Predicate.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\bin\Debug\04.Delegados_Predicate.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\obj\Debug\06.Delegados_Predicate.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\obj\Debug\06.Delegados_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\obj\Debug\04.Delegados_Predicate.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\04.Delegados_Predicate\obj\Debug\04.Delegados_Predicate.pdb

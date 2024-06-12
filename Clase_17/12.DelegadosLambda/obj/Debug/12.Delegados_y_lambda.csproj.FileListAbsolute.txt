@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\bin\Debug\12.Delegados_y_lambda.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\bin\Debug\12.Delegados_y_lambda.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\bin\Debug\12.Delegados_y_lambda.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\obj\Debug\12.Delegados_y_lambda.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\obj\Debug\12.Delegados_y_lambda.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\obj\Debug\12.Delegados_y_lambda.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\12.Delegados_y_lambda\obj\Debug\12.Delegados_y_lambda.pdb

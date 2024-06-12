@@ -1,0 +1,7 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\bin\Debug\11.Lambda_sintaxis.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\bin\Debug\11.Lambda_sintaxis.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\bin\Debug\11.Lambda_sintaxis.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\obj\Debug\11.Lambda_sintaxis.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\obj\Debug\11.Lambda_sintaxis.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\obj\Debug\11.Lambda_sintaxis.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_17\11.Lambda_sintaxis\obj\Debug\11.Lambda_sintaxis.pdb

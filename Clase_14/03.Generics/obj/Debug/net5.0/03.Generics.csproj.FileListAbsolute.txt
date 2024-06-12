@@ -1,0 +1,5 @@
+C:\Users\vbustos\Desktop\Clase_14\03.Generics\obj\Debug\net5.0\03.Generics.csproj.AssemblyReference.cache
+C:\Users\vbustos\Desktop\Clase_14\03.Generics\obj\Debug\net5.0\03.Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbustos\Desktop\Clase_14\03.Generics\obj\Debug\net5.0\03.Generics.AssemblyInfoInputs.cache
+C:\Users\vbustos\Desktop\Clase_14\03.Generics\obj\Debug\net5.0\03.Generics.AssemblyInfo.cs
+C:\Users\vbustos\Desktop\Clase_14\03.Generics\obj\Debug\net5.0\03.Generics.csproj.CoreCompileInputs.cache
