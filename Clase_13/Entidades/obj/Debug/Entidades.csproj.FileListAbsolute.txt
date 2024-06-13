@@ -1,0 +1,6 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\bin\Debug\Entidades.dll
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\obj\Debug\Entidades.dll
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_13\Entidades\obj\Debug\Entidades.pdb
