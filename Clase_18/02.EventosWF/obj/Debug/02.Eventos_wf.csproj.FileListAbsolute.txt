@@ -1,0 +1,10 @@
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\bin\Debug\02.Eventos_wf.exe.config
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\bin\Debug\02.Eventos_wf.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\bin\Debug\02.Eventos_wf.pdb
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\02.Eventos_wf.csproj.AssemblyReference.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\_02.Eventos_wf.Form1.resources
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\_02.Eventos_wf.Properties.Resources.resources
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\02.Eventos_wf.csproj.GenerateResource.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\02.Eventos_wf.csproj.CoreCompileInputs.cache
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\02.Eventos_wf.exe
+C:\Users\Verito\Desktop\Prueba\Veronica.Bustos.321_PP\Clase_18\02.Eventos_wf\obj\Debug\02.Eventos_wf.pdb
