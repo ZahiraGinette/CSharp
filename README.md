@@ -16,6 +16,7 @@ _¡Explora, aprende y disfruta programando en C#!_
 * [Clase 08 - Windows Forms](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_08)
 * [Clase 09 - Archivos y serialización](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_09)
 * [Clase 11 - Excepciones](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_11)
+* [Clase 13 - Test unitarios](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_13)
 * [Clase 14 - Interfaces y tipos genéricos](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_14)
 * [Clase 15 - Base de datos](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_15)
 * [Clase 17 - Delegados y expresiones lambda ](https://github.com/ZahiraGinette/CSharp/tree/main/Clase_17)
